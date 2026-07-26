@@ -7,9 +7,10 @@
       <rect x="0" y="0" width="0" height="180">
         <animate
           attributeName="width"
-          values="0;45;90;135;180;225;270;315;360;405;450;500;550;600;650;700;750;800;850;900;950;1000;1050;1100;1200;1200;0"
-          dur="8s"
-          calcMode="discrete"
+          values="0;1200;1200;0"
+          keyTimes="0;0.55;0.92;1"
+          dur="10s"
+          calcMode="linear"
           repeatCount="indefinite"/>
       </rect>
     </clipPath>
