@@ -1,16 +1,72 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
-<!--
-**howitzerimpact/howitzerimpact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  <h1>" 𝚂𝚘... 𝙸𝚣𝚞𝚔𝚞, 𝚌𝚊𝚗 𝙸 𝚜𝚝𝚒𝚕𝚕 𝚌𝚊𝚝𝚌𝚑 𝚞𝚙 𝚝𝚘 𝚢𝚘𝚞? "</h1>
+  
+  <img src="https://a.storyblok.com/f/178900/960x540/2b6849abae/my-hero-academia-final-season.jpg"
+         width="800"
+         height="400"
+         alt="My Hero Academia Final Season">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <h2>.𖥔 ݁ ˖ ϟ ⚡︎ ϟ ˖ ݁ 𖥔.˗ˏˋ ✸ ˎˊ˗. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁.𖥔 ܁ ˖˗ˏˋ ✸ ˎˊ˗.𖥔 ݁ ˖ ϟ ⚡︎ ϟ ˖ ݁ 𖥔.</h2>
+
+  <h2>✦ ＢＥＦＯＲＥ ＹＯＵ ＩＮＴＥＲＡＣＴ ✦</h2>
+
+  <p>
+        Check out my carrd !<br>
+        I get easily irritated, and have little to no self-restraint<br>
+        I can be pretty blunt<br>
+        I insult people 24/7<br>
+        I swear a lot<br>
+        Do not drag me into roleplays<br>
+        I will express myself freely if something is bothering me
+  </p>
+
+  <h2>.𖥔 ݁ ˖ ϟ ⚡︎ ϟ ˖ ݁ 𖥔.˗ˏˋ ✸ ˎˊ˗. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁.𖥔 ܁ ˖˗ˏˋ ✸ ˎˊ˗.𖥔 ݁ ˖ ϟ ⚡︎ ϟ ˖ ݁ 𖥔.</h2>
+
+  <h2>✦ ＩＮＴＥＲＡＣＴ ✦</h2>
+
+  <p>
+        Izuku kinnies !<br>
+        MHA, Alnst, Black Butler, Pjsk fan<br>
+  </p>
+
+  <h2>.𖥔 ݁ ˖ ϟ ⚡︎ ϟ ˖ ݁ 𖥔.˗ˏˋ ✸ ˎˊ˗. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁.𖥔 ܁ ˖˗ˏˋ ✸ ˎˊ˗.𖥔 ݁ ˖ ϟ ⚡︎ ϟ ˖ ݁ 𖥔.</h2>
+
+  <h2>✦ ＤＯ ＮＯＴ ＩＮＴＥＲＡＣＴ ✦</h2>
+
+  <p>
+        -14 DNI<br>
+        Flirters<br>
+        Basic DNI criteria<br>
+        Openly mock people<br>
+        Problematic behavior<br>
+        Make jokes about harmful topics<br>
+        Hate my kins, comfort characters, or ships<br>
+        Little use of tone tags (in certain situations)<br>
+        Use slurs you cannot reclaim<br>
+        Proshipper, groomer, lolicon, etc
+  </p>
+
+  <h2>.𖥔 ݁ ˖ ϟ ⚡︎ ϟ ˖ ݁ 𖥔.˗ˏˋ ✸ ˎˊ˗. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁.𖥔 ܁ ˖˗ˏˋ ✸ ˎˊ˗.𖥔 ݁ ˖ ϟ ⚡︎ ϟ ˖ ݁ 𖥔.</h2>
+
+  <img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2022/04/bakugo-apology.jpg?q=50&fit=crop&w=825&dpr=1.5"
+         width="800"
+         height="400"
+         alt="Bakugo Apology">
+
+  <h1>" 𝙸'𝚖 𝚜𝚘𝚛𝚛𝚢 𝚏𝚘𝚛 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 . "</h1>
+
+</div>
+
+</body>
+</html>
