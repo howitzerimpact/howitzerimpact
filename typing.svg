@@ -7,9 +7,10 @@
       <rect x="0" y="0" width="0" height="180">
         <animate
           attributeName="width"
-          values="0;40;80;120;160;210;260;310;360;410;470;530;600;670;750;840;940;1050;1200;1200;0"
-          dur="7s"
-          calcMode="discrete"
+          values="0;1200;1200;0"
+          keyTimes="0;0.55;0.92;1"
+          dur="10s"
+          calcMode="linear"
           repeatCount="indefinite"/>
       </rect>
     </clipPath>
@@ -22,9 +23,9 @@
     dominant-baseline="middle"
     font-family="monospace"
     font-size="52"
-    fill="#642218"
+    fill="#95381A"
     clip-path="url(#typing)">
-    " 𝙸'𝚖 𝚜𝚘𝚛𝚛𝚢 𝚏𝚘𝚛 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 . "
+    " I'm sorry for everything . "
   </text>
 
 </svg>
