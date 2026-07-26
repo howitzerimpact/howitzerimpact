@@ -64,7 +64,9 @@
          height="400"
          alt="Bakugo Apology">
 
-  <h1>" 𝙸'𝚖 𝚜𝚘𝚛𝚛𝚢 𝚏𝚘𝚛 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 . "</h1>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/howitzerimpact/howitzerimpact/main/typing.svg" alt="I'm sorry for everything">
+</p>
 
 </div>
 
