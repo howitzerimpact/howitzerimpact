@@ -7,10 +7,8 @@
 <body>
 
 <div align="center">
-  
-<p align="center">
-  <img src="izuku.svg?v=3" alt="So... Izuku, can I still catch up to you ?" width="900">
-</p>
+
+
   
   <img src="https://a.storyblok.com/f/178900/960x540/2b6849abae/my-hero-academia-final-season.jpg"
          width="800"
