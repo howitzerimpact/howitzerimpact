@@ -27,7 +27,8 @@
         Check out my carrd !<br>
         I get easily irritated, and have little to no self-restraint<br>
         I can be pretty blunt<br>
-        I insult people 24/7<br>
+        There are times where my personality might do a 180° flip<br>
+        I insult people on a daily basis<br>
         I swear a lot<br>
         Do not drag me into roleplays<br>
         I will express myself freely if something is bothering me
@@ -39,7 +40,7 @@
 
   <p>
         Izuku kinnies !<br>
-        MHA, Alnst, Black Butler, Pjsk fan<br>
+        MHA, Alnst, Black Butler, Pjsk fans<br>
   </p>
 
   <h2>.𖥔 ݁ ˖ ϟ ⚡︎ ϟ ˖ ݁ 𖥔.˗ˏˋ ✸ ˎˊ˗. ݁₊ ⊹ . ݁˖ . ݁. ݁₊ ⊹ . ݁˖ . ݁.𖥔 ܁ ˖˗ˏˋ ✸ ˎˊ˗.𖥔 ݁ ˖ ϟ ⚡︎ ϟ ˖ ݁ 𖥔.</h2>
