@@ -39,7 +39,6 @@
   <h2>✦ ＩＮＴＥＲＡＣＴ ✦</h2>
 
   <p>
-        Izuku kinnies !<br>
         MHA, Alnst, Black Butler, Pjsk fans<br>
   </p>
 
